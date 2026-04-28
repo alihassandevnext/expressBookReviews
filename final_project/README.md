@@ -38,8 +38,8 @@ Follow these steps to run the project locally on your machine:
 
 1. **Clone the repository**
    ```bash
-   git clone <your-github-repo-url>
-   cd <your-repo-folder-name>
+   git clone https://github.com/alihassandevnext/expressBookReviews
+   cd final_project
    ```
 
 ````
